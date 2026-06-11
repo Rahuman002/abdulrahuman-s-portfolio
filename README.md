@@ -17,7 +17,7 @@ Junior MERN Stack Developer | CSE 2025 | Passionate about building full-stack we
 2. **Web Dev Intern @Rejola IT** - Developed responsive web applications using MERN stack.
 
 ### 📫 Contact Me
-- **LinkedIn:** [[linkedin.com/in/abdulrahuman4317](https://www.linkedin.com/in/abdulrahuman002/)
+- **LinkedIn:** [linkedin.com/in/abdulrahuman4317](https://www.linkedin.com/in/abdulrahuman002/)
 - **Email:** abdulrahuman4317@gmail.com
 - **GitHub:** [@Rahuman002](https://github.com/Rahuman002)
 
